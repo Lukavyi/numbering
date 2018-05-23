@@ -1,0 +1,27 @@
+{
+  "name": "numbering",
+  "version": "1.0.0",
+  "description": "Convert between human and machine numbering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lukavyi/numbering.git"
+  },
+  "keywords": [
+    "numbering",
+    "human",
+    "machine",
+    "covert",
+    "number",
+    "digit"
+  ],
+  "author": "Taras Lukavyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lukavyi/numbering/issues"
+  },
+  "homepage": "https://github.com/Lukavyi/numbering#readme"
+}
