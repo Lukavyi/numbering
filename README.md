@@ -8,13 +8,13 @@ npm install --save numbering
 
 ## Example usage
 ```javascript
-import numbering from 'numbering';
+import num from 'numbering';
 
 // when you want to convert under-the-hood number to human-readable one(add 1 to it)
-numbering.toHuman(0); // 1
+num.toHuman(0); // 1
 
 // when you want to convert human-readable number to zero-based one(subtract 1 from it)
-numbering.toMachine(1); // 0
+num.toMachine(1); // 0
 ```
 
 ## Example with destructuring
