@@ -1,6 +1,6 @@
 {
   "name": "numberingjs",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Convert between human and machine numbering",
   "main": "index.js",
   "scripts": {
