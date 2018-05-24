@@ -1,5 +1,5 @@
 {
-  "name": "numbering",
+  "name": "numberingjs",
   "version": "1.0.0",
   "description": "Convert between human and machine numbering",
   "main": "index.js",
