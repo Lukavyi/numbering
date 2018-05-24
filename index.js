@@ -6,4 +6,4 @@ const numbering = {
   toMachine,
 };
 
-export default numbering;
+module.exports = numbering;
