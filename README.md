@@ -1,4 +1,4 @@
-# Numbering
+# start-from-zero
 Convert between human and machine numbering. Basically, it provides an interface to add or subtract 1 from provided number.
 
 ## Installation
