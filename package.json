@@ -1,6 +1,6 @@
 {
-  "name": "numberingjs",
-  "version": "1.1.0",
+  "name": "start-from-zero",
+  "version": "1.0.0",
   "description": "Convert between human and machine numbering",
   "main": "index.js",
   "scripts": {
@@ -8,9 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lukavyi/numbering.git"
+    "url": "git+https://github.com/Lukavyi/start-from-zero.git"
   },
   "keywords": [
+    "start-from-zero",
+    "zero",
+    "start",
+    "from",
+    "start from zero",
+    "javascript",
+    "js",
+    "webpack",
+    "es6",
+    "babel",
     "numbering",
     "human",
     "machine",
@@ -21,7 +31,7 @@
   "author": "Taras Lukavyi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Lukavyi/numbering/issues"
+    "url": "https://github.com/Lukavyi/start-from-zero/issues"
   },
-  "homepage": "https://github.com/Lukavyi/numbering#readme"
+  "homepage": "https://github.com/Lukavyi/start-from-zero#readme"
 }
