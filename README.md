@@ -3,12 +3,12 @@ Convert between human and machine numbering. Basically, it provides an interface
 
 ## Installation
 ```javascript
-npm install --save numberingjs
+npm install --save start-from-zero
 ```
 
 ## Example usage
 ```javascript
-import num from 'numberingjs';
+import num from 'start-from-zero';
 
 // when you want to convert under-the-hood number to human-readable one(add 1 to it)
 num.toHuman(0); // 1
@@ -19,7 +19,7 @@ num.toMachine(1); // 0
 
 ## Example with destructuring
 ```javascript
-import { toHuman, toMachine } from 'numberingjs';
+import { toHuman, toMachine } from 'start-from-zero';
 
 // when you want to convert an under-the-hood number to a human-readable one(add 1 to it)
 toHuman(0); // 1
